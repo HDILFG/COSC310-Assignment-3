@@ -1,4 +1,12 @@
 # COSC310 Project
+Group Members:
+Yirui Li
+Qianyi Wang
+Tony Yue
+Kexin Zhao
+Peter Zhao
+Akshaj Srinivasan
+
 
 The goal of this project is to create an interactive, text-based chatbot which is capable of completing 30 turns of conversation in a realistic manner.
 
