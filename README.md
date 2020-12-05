@@ -59,6 +59,8 @@ Mike: It's nice talking to you. Bye
 
 The agent can handle user's spelling mistakes and synonyms around topic.
 
+In order to identify the synonyms of the keywords entered by users, a dependency library, JWNL (Java WordNet Library) is used in coding. For download, you can check https://sourceforge.net/projects/jwordnet/
+
 ```bash
 User: Do you like siging?
 Mike: I love singing.
@@ -68,7 +70,7 @@ User: Do you like playing basketball?
 Mike: I love playing basketball.
 User: Do you enjoy playing basketball?
 Mike: I love playing basketball.
-
+```
 
 
 
