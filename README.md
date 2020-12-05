@@ -68,7 +68,7 @@ User: Do you like playing basketball?
 Mike: I love playing basketball.
 User: Do you enjoy playing basketball?
 Mike: I love playing basketball.
-```
+
 
 
 
@@ -110,7 +110,7 @@ listing:
 1. Deployment.
 
 1. Maintenance.
-
+```
 
 
 List of New Features:
