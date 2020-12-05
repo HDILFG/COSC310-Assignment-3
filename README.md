@@ -110,3 +110,18 @@ listing:
 1. Deployment.
 
 1. Maintenance.
+
+
+
+List of New Features:
+
+GUI- Ease of access and use for user
+
+Several Conversation topics:
+Hobbies-Singing, swimming, reading, painting, movies, cooking, sports
+All with appropriate responses
+
+Spelling Recognition feature to understand user even with spelling errors
+
+Language Toolkits: Synonym Recognition
+
