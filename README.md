@@ -74,7 +74,7 @@ Mike: I love playing basketball.
 
 
 
-listing:
+# Listing:
 
 1. Requirement Analyzing.
 
@@ -112,10 +112,9 @@ listing:
 1. Deployment.
 
 1. Maintenance.
-```
 
 
-List of New Features:
+# List of New Features:
 
 GUI- Ease of access and use for user
 
