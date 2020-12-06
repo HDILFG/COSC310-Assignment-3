@@ -16,7 +16,7 @@ public class WordNet {
 
     ArrayList<String> words;
 
-    public ArrayList<String> synonym(String lemma) {
+    synchronized public ArrayList<String> synonym(String lemma) {
 
         try {
 
